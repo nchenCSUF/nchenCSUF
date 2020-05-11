@@ -1,2 +1,0 @@
-# nchenCSUF
-Created with CodeSandbox
